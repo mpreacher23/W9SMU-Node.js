@@ -1,16 +1,20 @@
-// userQuestions Prompts (Tittle, Banner Img., Description, Installation, Usage, License, Contributors, Tests, GitHub Email, GitHub UserName )
+// userQuestions Prompts (Tittle, Badge Img., Description, User Story, Installation, Usage, License, Contributors, Tests, GitHub Email, GitHub UserName )
 const userQuestions = [
     {
         message: "what is the Tittle of your project? ",
         name: "tittle"
     },
     {
-        message: "Would you like a banner? (Add your banner link here):",
+        message: "Would you like to add a profile badge? (Add your profile badge link here):",
         name: "banner"
     },
     {
         message: "What is your projects description?",
         name: "description"
+    },
+    {
+        message: "What is your User Story?",
+        name: "story"
     },
     {
         message: "What command should be used to Install and Run your App?",
@@ -39,8 +43,8 @@ const userQuestions = [
         name: "email"
     },
     {
-        message: "What is your GitHub username?",
-        name: "username"
+        message: "What is your GitHub Account URL?",
+        name: "account"
     }
 ];
 module.exports = userQuestions;
