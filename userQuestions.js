@@ -1,6 +1,5 @@
 // userQuestions Prompts (Tittle, Badge Img., Description, User Story, Installation, Usage, License, Contributors, Tests, GitHub Email, GitHub UserName )
-const userQuestions = [
-    {
+const userQuestions = [{
         message: "What is the Tittle of your project? ",
         name: "tittle"
     },
@@ -39,12 +38,12 @@ const userQuestions = [
         name: "tests"
     },
     {
-        message: "What is your GitHub Email?",
+        message: "What is your GitHub email?",
         name: "email"
     },
     {
-        message: "What is your GitHub Account URL?",
-        name: "account"
+        message: "Enter your GitHub username",
+        name: "username"
     }
 ];
 module.exports = userQuestions;
