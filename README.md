@@ -19,12 +19,12 @@ I WANT a README generator
 SO THAT I can easily put together a good README for a new project
   ```
 ## Table of Contents 
-*[Installation](#Installation)
-*[Usage](#Usage)
-*[License](#License)
-*[Contributors](#Contributors)
-*[Tests](#Tests)
-*[Contact](#Contact)
+**[Installation](#Installation)<br>
+*[Usage](#Usage)<br>
+**[License](#License)<br>
+**[Contributors](#Contributors)<br>
+**[Tests](#Tests)<br>
+**[Contact](#Contact)<br>
 
 
 ## Installation
