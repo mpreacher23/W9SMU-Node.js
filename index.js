@@ -26,8 +26,12 @@ async function init() {
         const md = createMarkdown(answers, github.data);
         await writeFileAsync("README.md", md);
         console.log("Check out your new README.md file!");
+    }
+    // Add catch to correct "SyntaxError: Missing catch or finally after try"
+    catch (err) {
+        console.log(err);
 
-    } 
+    }
 };
 
 init();
