@@ -2,20 +2,19 @@
 function createMarkdown(answers, data) {
     return `  
 
-    ##Tittle
+    ## **Tittle**<br>
     ${answers.tittle}    
 
-    ##Badge Image
-    <img src="${answers.badge}" height="100%">
+    ## **Badge Image**<br>
+    <img src="${answers.badge}">
 
-    ## **Description
+    ## **Description**<br>
     ${answers.description}
 
-    ## **User Story
+    ## **User Story**<br>
     ${answers.story}
 
-    ## Contents
-
+    ## Contents <br>
     **[Installation](#Installation)**<br>
     **[Usage](#Usage)**<br>
     **[License](#License)**</br>
@@ -25,25 +24,25 @@ function createMarkdown(answers, data) {
     **[GitHub Account URL](#Account)**<br>
 
 
-    ## **Installation
+    ## **Installation**<br>
     ${answers.install}
 
-    ## **Usage
+    ## **Usage**<br>
     ${answers.usage}
 
-     ## **License
+     ## **License**<br>
     ${answers.license}
 
-    ## **Contributors
+    ## **Contributors**<br>
     ${answers.contributors}
 
-    ## **Tests
+    ## **Tests**<br>
     ${answers.tests}
 
-    ## **GitHub Email
+    ## **GitHub Email**<br>
     ${answers.email}
 
-    ## **GitHub Account URL
+    ## **GitHub Account URL**<br>
     ${answers.account}
 
     <img src="${data.avatar_url}" class="profile" align="left" height="120"/>

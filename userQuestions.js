@@ -6,7 +6,7 @@ const userQuestions = [
     },
     {
         message: "Would you like to add a profile badge? (Add your profile badge link here):",
-        name: "banner"
+        name: "badge"
     },
     {
         message: "What is your projects description?",

@@ -98,6 +98,7 @@ You are required to submit the following:
 * An animated GIF demonstrating the app functionality
 
 * A generated README.md file for a project repo.
+https://github.com/mpreacher23/W9SMU-Node.js
 
 * The URL of the GitHub repository
 https://github.com/mpreacher23/W9SMU-Node.js
