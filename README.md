@@ -1,47 +1,50 @@
-## Tittle
-<!-- <h1 align="center">test</h1> -->
+  
 
-<!-- Banner -->
-  <!-- <img src="test" height="100%">
-</p> -->
-## Profile Badge
-  <a><img src="https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social" /></a>
+    ##Tittle
+    Node.js    
 
-## Description
-test
+    // Badge image
+    <img src="https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social" height="100%">
+    https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social
+    https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social
 
-## User Story
+    ## **Description
+    Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
+    ## **User Story
+    AS A developer
 
-## Contents<br>
-**[Installation](#Installation)**<br>
-**[Usage](#Usage)**<br>
-**[License](#License)**</br>
-**[Contributors](#Contributors)**<br>
-**[Tests](#Tests)**<br>
-**[GitHub Email](#Email)**<br>
-**[GitHub Account URL](#Account)**<br>
+    ## Contents
 
-
-## **Installation**<br>
-test
-
-## **Usage**<br>
-test
-
-## **License**<br>
-mit
-
-## **Contributors**<br>
-test
-
-## **Tests**<br>
-test
-
-## **GitHub Email**<br>
-test<br>
-
-## **GitHub Account URL**<br>
+    **[Installation](#Installation)**<br>
+    **[Usage](#Usage)**<br>
+    **[License](#License)**</br>
+    **[Contributors](#Contributors)**<br>
+    **[Tests](#Tests)**<br>
+    **[GitHub Email](#Email)**<br>
+    **[GitHub Account URL](#Account)**<br>
 
 
-<img src="https://avatars3.githubusercontent.com/u/383316?v=4" class="profile" align="left" height="120"/>
+    ## **Installation
+    SO THAT I can easily put together a good README for a new projectnpm install inquirer
+
+    ## **Usage
+    node index.jsCreate a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
+
+     ## **License
+    mit
+
+    ## **Contributors
+    N/A
+
+    ## **Tests
+    Yes
+
+    ## **GitHub Email
+    mpreacher23@gmail.com
+
+    ## **GitHub Account URL
+    https://github.com/mpreacher23
+
+    <img src="https://avatars3.githubusercontent.com/u/11791361?v=4" class="profile" align="left" height="120"/>
+

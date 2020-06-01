@@ -5,10 +5,8 @@ function createMarkdown(answers, data) {
     ##Tittle
     ${answers.tittle}    
 
-    // Badge image
-    <img src="${answers.banner}" height="100%">
-    ${answers.banner}
-    https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social
+    ##Badge Image
+    <img src="${answers.badge}" height="100%">
 
     ## **Description
     ${answers.description}

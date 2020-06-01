@@ -1,7 +1,7 @@
 // userQuestions Prompts (Tittle, Badge Img., Description, User Story, Installation, Usage, License, Contributors, Tests, GitHub Email, GitHub UserName )
 const userQuestions = [
     {
-        message: "what is the Tittle of your project? ",
+        message: "What is the Tittle of your project? ",
         name: "tittle"
     },
     {
@@ -21,7 +21,7 @@ const userQuestions = [
         name: "install"
     },
     {
-        message: "Define what usage this repo can be used for",
+        message: "What is the usage for this app? ",
         name: "usage"
     },
     {

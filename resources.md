@@ -24,3 +24,8 @@ https://choosealicense.com/licenses/mit/#
 https://shields.io/
 
 My badge-  https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social
+
+<!-- Installation Requirements  -->
+npm install inquirer
+npm install axion
+node index.js

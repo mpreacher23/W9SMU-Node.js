@@ -36,17 +36,6 @@ async function init() {
 
 init();
 
-// async function init() {
-
-//     try {
-//         const answers = await promptUser();
-//         let github = await axios.get(`https://api.github.com/users/${answers.username}`)
-//         const md = createMarkdown(answers, github.data);
-//         await writeFileAsync('README.md", md);
-//         console.log("You just created your projects README.md file!");
-//     }
-// };
-// init();
 
 
 
