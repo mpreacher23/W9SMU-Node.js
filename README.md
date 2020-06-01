@@ -20,7 +20,7 @@ SO THAT I can easily put together a good README for a new project
   ```
 ## Table of Contents 
 **[Installation](#Installation)**<br>
-*[Usage](#Usage)**<br>
+**[Usage](#Usage)**<br>
 **[License](#License)**<br>
 **[Contributors](#Contributors)**<br>
 **[Tests](#Tests)**<br>
@@ -29,7 +29,6 @@ SO THAT I can easily put together a good README for a new project
 
 ## Installation
 ```
-
 npm install inquirer
 npm install axion
 node index.js
