@@ -1,51 +1,53 @@
   
 
 # Tittle
-Node.js Good README Generator    
-  
-## Badge Image
+Team Profile Generator
+
+ ## Badge Image
 
   <img alt="Badge Image" src="https://img.shields.io/github/license/mpreacher23/W9SMU-Node.js?style=social">
   
+
+
 ## Description
-When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
-## User Story
-```
-AS A developer
 
-I WANT a README generator
+You will build a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
 
-SO THAT I can easily put together a good README for a new project
-  ```
-## Table of Contents 
+
+## Table of Contents<br>
 **[Installation](#Installation)**<br>
 **[Usage](#Usage)**<br>
-**[License](#License)**<br>
-**[Contributors](#Contributors)**<br>
+**[License](#License)**</br>
+**[Contributors](#Contributors)**</br>
 **[Tests](#Tests)**<br>
 **[Contact](#Contact)**<br>
 
+## **Installation**<br>
+`npm install`<br>
+`npm install jest`<br>
+`npm install inquirer`<br>
 
-## Installation
-```
-npm install inquirer
-npm install axion
-node index.js
-```
 
-## Usage
+## **Usage**<br>
+To run the app, use app.js using Node.js
 
-Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
-
-## License
-MIT
-## Contributors
+## **License**<br>
+mit
+## **Contributors**
 N/A
-## Tests
-YES
-## Contact
+
+## **Tests**<br>
+Tests were run using Jest library, to run the test use `npm run test`.
+To run tests, this is using Jest Lib., use the command “npm run test” to activate. Make sure you’re in the correct directory when you run the test...
+
+<br>
+<br>
+
+## **Contact**
 mpreacher23@gmail.com
 
 <img src="https://avatars1.githubusercontent.com/u/44718469?v=4" class="profile" align="left" height="120"/>
+
+
 
