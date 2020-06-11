@@ -1,7 +1,4 @@
-  
-
-# Tittle
-Team Profile Generator
+  # Team Profile Generator
 
  ## Badge Image
 
